@@ -4,7 +4,7 @@
 version: 2
 jobs:
   build:
-    working_directory: /go/src/github.com/servian/TechChallengeApp
+    working_directory: /go/src/github.com/dinesh18singh/servianChallengep
     docker:
       - image: circleci/golang:latest
 
